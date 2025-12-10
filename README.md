@@ -1,5 +1,4 @@
 # Hi there 👋 I'm Cesar Hernandez  
-### Data Scientist | Machine Learning Engineer | Analytics Professional
 
 I’m a Data Scientist passionate about transforming data into actionable insights and building intelligent systems that solve real-world problems. My work focuses on machine learning, statistical modeling, data engineering, and AI-driven decision-making. I enjoy designing scalable solutions, conducting deep data analysis, and creating models that drive measurable business impact.
 
